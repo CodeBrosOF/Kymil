@@ -1,5 +1,5 @@
 # About Kymil
-Kymil is a python rpg
+Kymil is a python rpg  
 ![Kymil's Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNHwzLtAXtqjk-Fj1RuggiP-BPXONkxtqv0g&usqp=CAU)  
 
 # Setup
