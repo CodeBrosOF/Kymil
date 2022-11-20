@@ -8,4 +8,4 @@ When CMD is open type
 ```
 python C:\directory\RPG.py
 ```
-Afther that enjoy?
+After that enjoy!
