@@ -19,5 +19,5 @@ And now you have installed Python!
 
 # Releases
 ![Kymil's Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNHwzLtAXtqjk-Fj1RuggiP-BPXONkxtqv0g&usqp=CAU)  
-Here you can find all versions of Kymil
+Here you can find all versions of Kymil:  
 [Kymil 0.1](https://www.mediafire.com/file/vmbzm11g5mrt45l/Kymil_0.1.py/file)
