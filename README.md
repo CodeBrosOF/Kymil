@@ -15,6 +15,9 @@ After that enjoy!
 ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wYaYl12mZMqT_BTHSWvixUZlGiyMpPrCtw&usqp=CAU)  
 First get the newest setup [here](https://www.python.org/downloads/)  
 After downloading the setup follow the setup instructions  
-And now you have installed Python!
+And now you have installed Python!  
 
-
+# Releases
+![Kymil's Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNHwzLtAXtqjk-Fj1RuggiP-BPXONkxtqv0g&usqp=CAU)  
+Here you can find all versions of Kymil
+[Kymil 0.1](https://www.mediafire.com/file/vmbzm11g5mrt45l/Kymil_0.1.py/file)
