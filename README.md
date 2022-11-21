@@ -1,6 +1,6 @@
 # About Kymil
 Kymil is a text based Python rpg.  
-![Kymil's Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNHwzLtAXtqjk-Fj1RuggiP-BPXONkxtqv0g&usqp=CAU)  
+![Kymil's Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNHwzLtAXtqjk-Fj1RuggiP-BPXONkxtqv0g&usqp=CAU).    
 
 # Setup
 To setup Kymil, first you need to download it [here](https://kymil.000webhostapp.com/)  
