@@ -13,8 +13,8 @@ After that enjoy!
 
 # Python Installation
 ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wYaYl12mZMqT_BTHSWvixUZlGiyMpPrCtw&usqp=CAU)  
-First get the newest setup [here](https://www.python.org/downloads/)  
-After downloading the setup follow the setup instructions  
+First get the newest setup [here](https://www.python.org/downloads/).  
+After downloading the setup follow the setup instructions.  
 And now you have installed Python!  
 
 
