@@ -9,7 +9,7 @@ When CMD is open type:
 ```
 python C:\directory\Kymil_version.py
 ```
-After that enjoy!
+After that enjoy the game!
 
 # Python Installation
 ![Python](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wYaYl12mZMqT_BTHSWvixUZlGiyMpPrCtw&usqp=CAU)  
