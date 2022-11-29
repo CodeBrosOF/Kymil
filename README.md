@@ -17,4 +17,7 @@ First get the newest setup [here](https://www.python.org/downloads/).
 After downloading the setup follow the setup instructions.  
 And now you have installed Python!  
 
+# WARNING!  
+Game is still in beta and not finished yet.  
+
 
